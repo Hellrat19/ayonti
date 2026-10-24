@@ -1,0 +1,44 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "gradient-text",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-24T19:00:48.081Z",
+        "reason": "POLISH-NOTES.md brand brief: gradient অয়ন্তী wordmark is a kept identity element"
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-24T19:00:48.223Z",
+        "reason": "POLISH-NOTES.md brand brief: blush-cream ground is from the hero fabric palette"
+      },
+      {
+        "rule": "repeating-stripes-gradient",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-24T19:00:48.367Z",
+        "reason": "POLISH-NOTES.md brand brief: selvedge stripe dividers are kept identity"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-24T19:01:34.997Z",
+        "reason": "Measured in browser: hero/trust text inset 16px by .wrap gutters, visit cells 22-34px padding; detector misreads wrapper padding"
+      }
+    ]
+  }
+}

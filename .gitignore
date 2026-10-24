@@ -1,0 +1,10 @@
+# local, per-machine settings
+.claude/settings.local.json
+.impeccable/config.local.json
+# downloaded tool binaries (the impeccable launcher fetches these on first run)
+.claude/skills/impeccable/scripts/bin/
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+.impeccable/hook.cache.json
